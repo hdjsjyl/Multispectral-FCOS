@@ -4,7 +4,7 @@
 ## Abstract
 This is a tensorflow implementation is inspired by [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355), the code is derived from [DetectionTeamUCAS](https://github.com/DetectionTeamUCAS/FCOS_Tensorflow).     
 
-## Original Implementation
+## Original Network
 ![1](Original_FCOS.png)         
 ## Current Implementation
 ![2](FCOS+Seg.png)         
