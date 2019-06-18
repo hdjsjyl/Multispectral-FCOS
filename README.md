@@ -22,9 +22,9 @@ This method is inspired by [FCOS: Fully Convolutional One-Stage Object Detection
 
 ### Trained weights
 
-1、Please download [kaist_model]() , and put it in output/trained_weights </br>
-2、Download the tfrecord [dataset]() , and put it in data/tfrecord </br>
-3、Download the results [images and text files]() , and put it in output/test_results </br>
+1、Please download [kaist_model](https://drive.google.com/open?id=1xsxJ3Qh3MMvBhHrLr0Es7UpuLSVtI6dv) , and put it in output/trained_weights </br>
+2、The .tfrecord must placed in data/tfrecord </br>
+3、Download the results [images and text files](https://drive.google.com/open?id=1jR60juUB6blVkM9NFx1a36eXdqHm3U9T) , and put it in output/test_results </br>
 
 
 ## Compile
