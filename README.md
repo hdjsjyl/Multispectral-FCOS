@@ -89,6 +89,15 @@ run demo_test.m from MATLAB/GNU OCTAVE
 ## Results Obtained
 ![3](Results.png)         
 
+## Results Day
+
+![](gifs/day_fcos.gif)
+
+
+## Results Night
+
+![](gifs/night_fcos.gif)
+
 ## Reference
 1、https://github.com/endernewton/tf-faster-rcnn   
 2、https://github.com/zengarden/light_head_rcnn   
