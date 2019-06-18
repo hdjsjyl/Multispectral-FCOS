@@ -61,9 +61,9 @@ python test.py --rgb_data_dir PATH_TO/Reasonable_test_depth/visible --ir_data_di
 
 
 ## Eval
-1、Evaluating the miss-rate of the obtained results
-2、Copy results from output/test_results/txt -> eval/det
-3、Arrange Ground Truth annotations in the following format
+1、Evaluating the miss-rate of the obtained results </br>
+2、Copy results from output/test_results/txt -> eval/det </br>
+3、Arrange Ground Truth annotations in the following format </br>
 
 ```  
 Ground_truth_directory
@@ -80,7 +80,7 @@ Ground_truth_directory
     ----annotations (these are orignal annotations)
     ----annotations_KAIST_test_set (these are imporved annotations)
 ```  
-4、Evaluate Metrics
+4、Evaluate Metrics </br>
 
 ```  
 run demo_test.m from MATLAB/GNU OCTAVE
