@@ -6,7 +6,21 @@ This method is inspired by [FCOS: Fully Convolutional One-Stage Object Detection
 
 ![1](Original_FCOS.png)         
 ## Current Implementation
-![2](FCOS+Seg.png)         
+![2](FCOS+Seg.png)    
+
+
+## Results Obtained
+![3](Results.png)         
+
+## Results Day
+
+![](gifs/day_fcos.gif)
+
+
+## Results Night
+
+![](gifs/night_fcos.gif)
+
 
 ## My Development Environment
 1、python3.5             
@@ -86,17 +100,6 @@ Ground_truth_directory
 run demo_test.m from MATLAB/GNU OCTAVE
 ``` 
 
-## Results Obtained
-![3](Results.png)         
-
-## Results Day
-
-![](gifs/day_fcos.gif)
-
-
-## Results Night
-
-![](gifs/night_fcos.gif)
 
 ## Reference
 1、https://github.com/endernewton/tf-faster-rcnn   
